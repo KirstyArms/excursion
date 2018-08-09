@@ -1,0 +1,16 @@
+body {
+  font-family: verdana;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+a {
+  font-size: 16px;
+  color: aquamarine !important;
+}
+
+.main-header {
+font-size: 50px;
+font-weight: normal;
+}
