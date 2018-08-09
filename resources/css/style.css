@@ -10,7 +10,22 @@ a {
   color: aquamarine !important;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
 .main-header {
 font-size: 50px;
 font-weight: normal;
+}
+
+.description {
+  font-size: 21px;
+  color: gray;
+}
+
+.copyright {
+  color: gray;
+  text-align: right;
 }
